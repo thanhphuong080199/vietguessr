@@ -4,6 +4,8 @@ Can you guess where in Vietnam you are? A location-guessing game using real
 street-level imagery from Mapillary. Drop a pin, score points, explore the
 country — free to run, no credit card needed.
 
+**🎮 Live demo: <https://vietguessr.vercel.app/>**
+
 ## How it works
 
 1. A random Vietnam panorama loads — look around with mouse/touch.
